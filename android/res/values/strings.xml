@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SolvaBall</string>
+    <string name="facebook_app_id">FACEBOOK_APP_ID</string>
+    <string name="privacy_url">https://sites.google.com/view/dima-t-apps-privacy/privacy-policies/solvaball</string>
+    <string name="game_url">market://details?id=com.dima.solvaball</string>
+    <string name="package_name" translatable="false">com.dima.solvaball</string>
+    <string name="achievement_5" translatable="false">CUSTOM_ID_FOR_ACHIVEMENT</string>
+    <string name="achievement_10" translatable="false">CUSTOM_ID_FOR_ACHIVEMENT</string>
+    <string name="achievement_25" translatable="false">CUSTOM_ID_FOR_ACHIVEMENT</string>
+    <string name="achievement_50" translatable="false">CUSTOM_ID_FOR_ACHIVEMENT</string>
+    <string name="banner_ad">AD_ID_BANNER</string>
+    <string name="banner_ad_debug">AD_ID_BANNER</string>
+    <string name="reward_ad">AD_ID_REWARD</string>
+    <string name="reward_ad_debug">AD_ID_REWARD</string>
+
+    </resources>

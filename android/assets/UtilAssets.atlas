@@ -1,0 +1,185 @@
+
+UtilAssets.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+AchievementsButton
+  rotate: false
+  xy: 1084, 946
+  size: 274, 204
+  orig: 274, 204
+  offset: 0, 0
+  index: -1
+AllLevelsButton
+  rotate: false
+  xy: 1084, 1311
+  size: 548, 200
+  orig: 548, 200
+  offset: 0, 0
+  index: -1
+BackButton
+  rotate: false
+  xy: 1898, 1915
+  size: 135, 113
+  orig: 135, 113
+  offset: 0, 0
+  index: -1
+Background
+  rotate: false
+  xy: 2, 108
+  size: 1080, 1920
+  orig: 1080, 1920
+  offset: 0, 0
+  index: -1
+DialogButton
+  rotate: false
+  xy: 1360, 1005
+  size: 289, 145
+  orig: 289, 145
+  offset: 0, 0
+  index: -1
+ForwardButton
+  rotate: false
+  xy: 1360, 890
+  size: 135, 113
+  orig: 135, 113
+  offset: 0, 0
+  index: -1
+InfoButton
+  rotate: false
+  xy: 1084, 500
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+LastLevelButton
+  rotate: false
+  xy: 1084, 1513
+  size: 548, 324
+  orig: 548, 324
+  offset: 0, 0
+  index: -1
+MenuButton
+  rotate: false
+  xy: 204, 2
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+ResetArrow
+  rotate: false
+  xy: 1236, 665
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+ResetButton
+  rotate: false
+  xy: 2, 2
+  size: 200, 104
+  orig: 200, 104
+  offset: 0, 0
+  index: -1
+ReturnButton
+  rotate: false
+  xy: 1634, 1674
+  size: 163, 163
+  orig: 163, 163
+  offset: 0, 0
+  index: -1
+SettingsButton
+  rotate: false
+  xy: 1799, 1751
+  size: 87, 86
+  orig: 87, 86
+  offset: 0, 0
+  index: -1
+ShopButton
+  rotate: false
+  xy: 1084, 740
+  size: 274, 204
+  orig: 274, 204
+  offset: 0, 0
+  index: -1
+SkipButton
+  rotate: false
+  xy: 1634, 1563
+  size: 129, 109
+  orig: 129, 109
+  offset: 0, 0
+  index: -1
+SmallButton
+  rotate: false
+  xy: 1084, 588
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Title
+  rotate: false
+  xy: 1084, 1152
+  size: 662, 157
+  orig: 662, 157
+  offset: 0, 0
+  index: -1
+UndoButton
+  rotate: false
+  xy: 1651, 1046
+  size: 95, 104
+  orig: 95, 104
+  offset: 0, 0
+  index: -1
+WideButton
+  rotate: false
+  xy: 1084, 1839
+  size: 812, 189
+  orig: 812, 189
+  offset: 0, 0
+  index: -1
+
+UtilAssets2.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+DialogBody
+  rotate: false
+  xy: 2, 2
+  size: 1073, 772
+  orig: 1073, 772
+  offset: 0, 0
+  index: -1
+TutorialPage1
+  rotate: false
+  xy: 2, 776
+  size: 1080, 1080
+  orig: 1080, 1080
+  offset: 0, 0
+  index: -1
+
+UtilAssets3.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+TutorialPage2
+  rotate: false
+  xy: 2, 2
+  size: 1080, 1080
+  orig: 1080, 1080
+  offset: 0, 0
+  index: -1
+
+UtilAssets4.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+TutorialPage3
+  rotate: false
+  xy: 2, 2
+  size: 1080, 1080
+  orig: 1080, 1080
+  offset: 0, 0
+  index: -1
